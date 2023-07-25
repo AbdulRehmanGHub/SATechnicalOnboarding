@@ -66,12 +66,12 @@ const Footer = (props) => {
           </a>
         )}
         {devDotTo && (
-          <a href={`https://dev.to/${www.dev.to/abdulrehman0}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://dev.to/${abdulrehman0}`} target="_blank" rel="noopener noreferrer">
             <img src={devDotToIcon} alt="Dev.to" className="socialIcon" />
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${www.github.com/abdulrehmanghub}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://github.com/${abdulrehmanghub}`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
@@ -94,7 +94,7 @@ const Footer = (props) => {
           </a>
         )}
         {medium && (
-          <a href={`https://medium.com/@${www.medium.com/@abdulrehman0}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://medium.com/@${abdulrehman0}`} target="_blank" rel="noopener noreferrer">
             <img src={mediumIcon} alt="Medium" className="socialIcon" />
           </a>
         )}
